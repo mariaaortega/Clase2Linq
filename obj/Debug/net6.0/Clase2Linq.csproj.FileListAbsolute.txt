@@ -1,0 +1,15 @@
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\bin\Debug\net6.0\Clase2Linq.exe
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\bin\Debug\net6.0\Clase2Linq.deps.json
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\bin\Debug\net6.0\Clase2Linq.runtimeconfig.json
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\bin\Debug\net6.0\Clase2Linq.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\bin\Debug\net6.0\ref\Clase2Linq.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\bin\Debug\net6.0\Clase2Linq.pdb
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.csproj.AssemblyReference.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.AssemblyInfoInputs.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.AssemblyInfo.cs
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.csproj.CoreCompileInputs.cache
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\ref\Clase2Linq.dll
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.pdb
+D:\CARPETAS ESCRITORIO\3ro tec.sofware\Metrodev\Clase2Linq\obj\Debug\net6.0\Clase2Linq.genruntimeconfig.cache
